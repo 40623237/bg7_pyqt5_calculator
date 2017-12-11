@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
-<!-- eric project file for project final_project -->
-<!-- Saved: 2017-12-04, 14:53:00 -->
+<!-- eric project file for project final -->
+<!-- Saved: 2017-11-27, 16:12:39 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -14,9 +14,6 @@
   <Eol index="0"/>
   <Sources>
     <Source>__init__.py</Source>
-    <Source>ref.py</Source>
-    <Source>run.py</Source>
-    <Source>ui/Dialog.py</Source>
     <Source>ui/Ui_Dialog.py</Source>
   </Sources>
   <Forms>
@@ -26,7 +23,6 @@
   <Resources/>
   <Interfaces/>
   <Others/>
-  <MainScript>run.py</MainScript>
   <Vcs>
     <VcsType>None</VcsType>
   </Vcs>

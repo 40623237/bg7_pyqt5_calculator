@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="ahshoe.20161120121808.1"><vh>@settings</vh>
+<v t="ahshoe.20161120121808.1" a="E"><vh>@settings</vh>
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -21,9 +21,7 @@
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
 <v t="leo.20171119234752.1" a="E"><vh>封面以及摘要</vh>
-<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
-<v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
-</v>
+<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh></v>
 </v>
 <v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
 <v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
@@ -106,7 +104,7 @@ author:
 - 設計一乙 40623247
 - 設計一乙 40623248
 advisor_zh: '嚴家銘'
-date: '2017.12.18'
+date: '2018.1.08'
 ---
 
 @others
@@ -186,20 +184,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="ahshoe.20170315212626.1">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="ahshoe.20170317115820.1">---
-abstract: |
-    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
-    
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
-    
-    本研究的重點在於 ...
----
-
-
-</t>
 <t tx="leo.20171119234752.1"></t>
 <t tx="leo.20171119234822.1"></t>
 <t tx="leo.20171218141522.1">標題頁 - 含報告標題、作者、日期與所屬單位
@@ -230,12 +214,20 @@ abstract: |
 第七組計算器程式期末報告前言
 
 @others</t>
-<t tx="yen.20170429214838.3">前言內容:
-這是機械設計一乙計算機程式第七組報告。
+<t tx="yen.20170429214838.3">
+前言內容:
+--
+何謂機械設計?
 
+所謂機械設計, 就是透過詳細思慮考量, 完成包括固體、流體與軟體等互動元件間之精巧配置, 使其展現特定功能之具體規劃表達.
 
-\ 
+工程師有那六種表達方式? 口語, 文字, 2D, 3D, 數學理論與實作表達.
 
+創造力的三個基本要素: 自學力, 執行力與想像力.
+
+自學力在提升自我解題能力, 執行力則在運用所學解決問題, 當累積一定經驗後, 就能透過想像、自學與執行過程之整合運用, 創造出具效能的創新產品.
+
+接下來將要練習如何開啟 Leo Editor, 開啟 Leo Editor 專案, 如何使用 Fossil SCM 與 Eric6 IDE, 請大家要仔細筆記, 並且透過實際操作, 了解各種系統的特性與用法.
 </t>
 <t tx="yen.20170429214845.1"></t>
 <t tx="yen.20170429215041.1">可攜程式系統介紹
@@ -261,6 +253,7 @@ Windows 的內容
 ---</t>
 <t tx="yen.20170429215416.1"> PyQt5 簡介
 ===
+
 @others</t>
 <t tx="yen.20170429215446.2">PyQt5 架構
 ---
@@ -281,7 +274,7 @@ PyQt 的版本與 Qt 相同（除了小版號），採用 GPL 和商業授權。
 <t tx="yen.20170429215617.1">Calculator 程式
 ===
 
-Calculator 程式細部說明
+Calculator 程式說明
 
 @others</t>
 <t tx="yen.20170429215851.1">按鍵分類
@@ -402,10 +395,14 @@ Github 協同倉儲
 期末報告結論
 
 @others</t>
-<t tx="yen.20170429220137.1">結論與建議
+<t tx="yen.20170429220137.1">結論與建議:
 ---
+結論:
+組員們一起努力協同此份報告，很有成就感。大家一起煩惱著拼命著就是為了完成自己被分配的任務。
 
-結論與建議內容</t>
+建議:
+希望能不要將每個禮拜的主題換來換去，專心處理某個部份的問題，都處理完了解完後，在來進行下一個部分。一方面大家會對課程比較了解，一方面也學得不會痛苦。
+</t>
 <t tx="yen.20170429220335.1">附錄
 ===
 

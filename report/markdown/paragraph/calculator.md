@@ -1,7 +1,7 @@
 Calculator 程式
 ===
 
-Calculator 程式細部說明
+Calculator 程式說明
 
 按鍵分類
 ---

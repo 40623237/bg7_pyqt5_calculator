@@ -13,8 +13,8 @@
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="yen.20170429132400.1"><vh>協同著作規劃</vh></v>
 <v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
+<v t="yen.20170429132400.1"><vh>協同著作規劃</vh></v>
 <v t="leo.20171218141522.1"><vh>報告章節規劃</vh></v>
 <v t="yen.20170429103742.1" a="E"><vh>@path ./../</vh>
 <v t="yen.20170429103940.1" a="E"><vh>@path markdown</vh>
@@ -34,7 +34,7 @@
 <v t="yen.20170429215130.1"><vh>可攜程式系統介紹</vh></v>
 </v>
 <v t="yen.20170429215416.1" a="E"><vh>@clean pyqt5_introduction.md</vh>
-<v t="yen.20170429215446.2"><vh>PyQt5 語法介紹</vh></v>
+<v t="yen.20170429215446.2"><vh>PyQt5 介紹</vh></v>
 </v>
 <v t="yen.20170429215617.1" a="E"><vh>@clean calculator.md</vh>
 <v t="yen.20170429215851.1"><vh>計算機程式內容</vh></v>
@@ -52,16 +52,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20171225152127.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20171225152127.3"><vh>Recovered node "程式開發心得" from @clean discussion.md</vh>
-<v t="leo.20171225152127.4"><vh>old:程式開發心得</vh></v>
-<v t="leo.20171225152127.5"><vh>new:程式開發心得</vh></v>
-</v>
-</v>
-<v t="leo.20171225154122.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20171225154122.2"><vh>Recovered node "程式開發心得" from @clean discussion.md</vh>
-<v t="leo.20171225154122.3"><vh>old:程式開發心得</vh></v>
-<v t="leo.20171225154122.4"><vh>new:程式開發心得</vh></v>
+<v t="leo.20171225155826.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20171225155826.2"><vh>Recovered node "程式開發心得" from @clean discussion.md</vh>
+<v t="leo.20171225155826.3"><vh>old:程式開發心得</vh></v>
+<v t="leo.20171225155826.4"><vh>new:程式開發心得</vh></v>
 </v>
 </v>
 </vnodes>
@@ -229,8 +223,8 @@ abstract: |
 參考 - 詳列所引用的參考內容
 
 附錄 - 附加值得參考的詳細內容</t>
-<t tx="leo.20171225152127.2"></t>
-<t tx="leo.20171225152127.3">(uncached) yen.20170429220001.1
+<t tx="leo.20171225155826.1"></t>
+<t tx="leo.20171225155826.2">(uncached) yen.20170429220001.1
 Diff...
   Fossil SCM
   ---
@@ -254,110 +248,12 @@ Diff...
   
   學員心得
   ---
-+ 剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程
-+                                                                by40623246
-
-+ 在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解.
-+                                                                by40623247</t>
-<t tx="leo.20171225152127.4">Fossil SCM
----
-剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
-Fossil SCM相關指令:
-fossil init 倉儲名稱.fossil
-fossil ui
-fossil open
-fossil clone
-fossil add .
-fossil commit -m --no-warnings
-fossil update
-
-網誌心得
----
-第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
-
-Github 協同倉儲
----
-與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
-
-學員心得
----
-剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程
-                                                               by40623246</t>
-<t tx="leo.20171225152127.5">Fossil SCM
----
-剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
-Fossil SCM相關指令:
-fossil init 倉儲名稱.fossil
-fossil ui
-fossil open
-fossil clone
-fossil add .
-fossil commit -m --no-warnings
-fossil update
-
-網誌心得
----
-第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
-
-Github 協同倉儲
----
-與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
-
-學員心得
----
+  剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
+                                                                                                                                              by40623246
+- 在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
+-                                                                                                                                             by40623247
 </t>
-<t tx="leo.20171225154122.1"></t>
-<t tx="leo.20171225154122.2">(uncached) yen.20170429220001.1
-Diff...
-  Fossil SCM
-  ---
-  剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
-  Fossil SCM相關指令:
-  fossil init 倉儲名稱.fossil
-  fossil ui
-  fossil open
-  fossil clone
-  fossil add .
-  fossil commit -m --no-warnings
-  fossil update
-  
-  網誌心得
-  ---
-  第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
-  
-  Github 協同倉儲
-  ---
-  與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
-  
-  學員心得
-  ---
-- 剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
--                                                                                                                                             by40623246
-</t>
-<t tx="leo.20171225154122.3">Fossil SCM
----
-剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
-Fossil SCM相關指令:
-fossil init 倉儲名稱.fossil
-fossil ui
-fossil open
-fossil clone
-fossil add .
-fossil commit -m --no-warnings
-fossil update
-
-網誌心得
----
-第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
-
-Github 協同倉儲
----
-與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
-
-學員心得
----
-</t>
-<t tx="leo.20171225154122.4">Fossil SCM
+<t tx="leo.20171225155826.3">Fossil SCM
 ---
 剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
 Fossil SCM相關指令:
@@ -381,6 +277,33 @@ Github 協同倉儲
 ---
 剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
                                                                                                                                             by40623246
+</t>
+<t tx="leo.20171225155826.4">Fossil SCM
+---
+剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
+Fossil SCM相關指令:
+fossil init 倉儲名稱.fossil
+fossil ui
+fossil open
+fossil clone
+fossil add .
+fossil commit -m --no-warnings
+fossil update
+
+網誌心得
+---
+第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
+
+Github 協同倉儲
+---
+與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
+
+學員心得
+---
+剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
+                                                                                                                                            by40623246
+在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
+                                                                                                                                            by40623247
 </t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
@@ -426,9 +349,6 @@ Windows 的內容
 ---</t>
 <t tx="yen.20170429215416.1"> PyQt5 簡介
 ===
-
-說明 PyQt5 基本架構與程式開發流程
-
 @others</t>
 <t tx="yen.20170429215446.2">PyQt5 架構
 ---
@@ -439,9 +359,6 @@ Windows 的內容
 其中 Qt 是由 Qt Project 開發。Qt 支援平台種類眾多，除了常見的 Windows、Linux、Mac 以外，還有非 X Window System 的作業系統。授權方面也十分自由，採用 GNU 較寬鬆通用公共許可證 (GNU Lesser General Public License, LGPL)、GNU 通用公共許可證 (GNU General Public License, GPL)、商業授權三種模式，可以讓開發者應需求選擇。
 
 Qt 程式庫中甚至支援開發圖形介面的「周邊」功能，如網路通訊、OpenGL、OpenVG、SQL 與 XML 直譯器、圖片格式轉檔、Linux 的輸入法開發、瀏覽器引擎（使用 Google Chromium）、各式圖表等。
-
-現在 Qt 的版本來到了第 5 版，而且每 6 個月仍再持續提出更新計畫，在自由軟體產業具有很高的影響力。
-
 由於 Qt 的功能極為強大，英國的 Riverbank Computing 公司率先為其撰寫 Python 語言的套件，甚至開發了 SIP 這套工具將 C 與 C++ 程式庫包裝為 Python 套件。
 
 PyQt 幾乎支援 Qt 大部分的功能，並且將較專門的功能另外分成 PyQt Chart（2D 圖表）、PyQt Data Visualization（3D 圖表）、PyQt Purchasing（應用程式購買功能）。

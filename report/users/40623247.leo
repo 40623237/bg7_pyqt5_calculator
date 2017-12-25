@@ -13,8 +13,8 @@
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
 <v t="yen.20170429132400.1"><vh>協同著作規劃</vh></v>
+<v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
 <v t="leo.20171218141522.1"><vh>報告章節規劃</vh></v>
 <v t="yen.20170429103742.1" a="E"><vh>@path ./../</vh>
 <v t="yen.20170429103940.1" a="E"><vh>@path markdown</vh>
@@ -56,6 +56,12 @@
 <v t="leo.20171225152127.3"><vh>Recovered node "程式開發心得" from @clean discussion.md</vh>
 <v t="leo.20171225152127.4"><vh>old:程式開發心得</vh></v>
 <v t="leo.20171225152127.5"><vh>new:程式開發心得</vh></v>
+</v>
+</v>
+<v t="leo.20171225154122.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20171225154122.2"><vh>Recovered node "程式開發心得" from @clean discussion.md</vh>
+<v t="leo.20171225154122.3"><vh>old:程式開發心得</vh></v>
+<v t="leo.20171225154122.4"><vh>new:程式開發心得</vh></v>
 </v>
 </v>
 </vnodes>
@@ -300,6 +306,82 @@ Github 協同倉儲
 學員心得
 ---
 </t>
+<t tx="leo.20171225154122.1"></t>
+<t tx="leo.20171225154122.2">(uncached) yen.20170429220001.1
+Diff...
+  Fossil SCM
+  ---
+  剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
+  Fossil SCM相關指令:
+  fossil init 倉儲名稱.fossil
+  fossil ui
+  fossil open
+  fossil clone
+  fossil add .
+  fossil commit -m --no-warnings
+  fossil update
+  
+  網誌心得
+  ---
+  第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
+  
+  Github 協同倉儲
+  ---
+  與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
+  
+  學員心得
+  ---
+- 剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
+-                                                                                                                                             by40623246
+</t>
+<t tx="leo.20171225154122.3">Fossil SCM
+---
+剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
+Fossil SCM相關指令:
+fossil init 倉儲名稱.fossil
+fossil ui
+fossil open
+fossil clone
+fossil add .
+fossil commit -m --no-warnings
+fossil update
+
+網誌心得
+---
+第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
+
+Github 協同倉儲
+---
+與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
+
+學員心得
+---
+</t>
+<t tx="leo.20171225154122.4">Fossil SCM
+---
+剛開始接觸都不太熟，甚至連fossil也不知道是甚麼。但經過幾個禮拜老師的教學後，不但都能了解，也能實際應用。
+Fossil SCM相關指令:
+fossil init 倉儲名稱.fossil
+fossil ui
+fossil open
+fossil clone
+fossil add .
+fossil commit -m --no-warnings
+fossil update
+
+網誌心得
+---
+第一次上傳到自己的網誌總是困難重重，近端遠端常常上傳不了。後來與同學老師互相討論才擁有現在管理得不錯的網誌。
+
+Github 協同倉儲
+---
+與組員的協同總是特別好，很有分工合作的感覺，當完成屬於大家的計算機後成就感十足。
+
+學員心得
+---
+剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
+                                                                                                                                            by40623246
+</t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
@@ -482,6 +564,10 @@ Github 協同倉儲
 
 學員心得
 ---
+剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
+                                                                                                                                            by40623246
+在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
+                                                                                                                                            by40623247
 </t>
 <t tx="yen.20170429220128.1">結論
 ===

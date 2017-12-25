@@ -1,8 +1,5 @@
  PyQt5 簡介
 ===
-
-說明 PyQt5 基本架構與程式開發流程
-
 PyQt5 架構
 ---
 大部分所見的圖形化介面程式語言都是由有物件導向的程式語言開發的，例如 C++、Java、C#、Python 等。
@@ -12,9 +9,6 @@ PyQt5 架構
 其中 Qt 是由 Qt Project 開發。Qt 支援平台種類眾多，除了常見的 Windows、Linux、Mac 以外，還有非 X Window System 的作業系統。授權方面也十分自由，採用 GNU 較寬鬆通用公共許可證 (GNU Lesser General Public License, LGPL)、GNU 通用公共許可證 (GNU General Public License, GPL)、商業授權三種模式，可以讓開發者應需求選擇。
 
 Qt 程式庫中甚至支援開發圖形介面的「周邊」功能，如網路通訊、OpenGL、OpenVG、SQL 與 XML 直譯器、圖片格式轉檔、Linux 的輸入法開發、瀏覽器引擎（使用 Google Chromium）、各式圖表等。
-
-現在 Qt 的版本來到了第 5 版，而且每 6 個月仍再持續提出更新計畫，在自由軟體產業具有很高的影響力。
-
 由於 Qt 的功能極為強大，英國的 Riverbank Computing 公司率先為其撰寫 Python 語言的套件，甚至開發了 SIP 這套工具將 C 與 C++ 程式庫包裝為 Python 套件。
 
 PyQt 幾乎支援 Qt 大部分的功能，並且將較專門的功能另外分成 PyQt Chart（2D 圖表）、PyQt Data Visualization（3D 圖表）、PyQt Purchasing（應用程式購買功能）。

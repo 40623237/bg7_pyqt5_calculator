@@ -3,7 +3,7 @@ Calculator 程式
 
 Calculator 程式說明
 
-按鍵分類
+#按鍵分類
 ---
 0 ~9 數字按建, 點按後由 digitClicked() 方法槽承接處理
 直接運算元, 包括 Sqrt, x^2 與 1/x, 點按後由 unaryOperatorClicked() 方法槽承接處理

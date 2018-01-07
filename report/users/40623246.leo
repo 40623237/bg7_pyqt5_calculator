@@ -30,9 +30,6 @@
 <v t="yen.20170429214838.1" a="E"><vh>@clean introduction.md</vh>
 <v t="yen.20170429214838.3"><vh>前言內容</vh></v>
 </v>
-<v t="yen.20170429215041.1" a="E"><vh>@clean portable_system.md</vh>
-<v t="yen.20170429215130.1"><vh>可攜程式系統介紹</vh></v>
-</v>
 <v t="yen.20170429215416.1" a="E"><vh>@clean pyqt5_introduction.md</vh>
 <v t="yen.20170429215446.2"><vh>PyQt5 介紹</vh></v>
 </v>
@@ -92,7 +89,7 @@ g.es("---Pandoc---")
 # 選擇所要納入的 Markdown 檔案, 不納入的檔案名稱前方加上  # 即可
 chapter_list = " ".join("./paragraph/" + i for i in [
 "introduction.md",
-"portable_system.md", 
+#"portable_system.md", 
 "python_introduction.md", 
 "pyqt5_introduction.md", 
 "discussion.md", 
@@ -260,21 +257,25 @@ abstract: |
 
 Python 程式語法
 
-變數命名
----
+if語句： 當條件成立時執行語句塊。經常與else, elif（相當於else if）配合使用。
 
-print 函式
----
+for語句： 遍列列表、字串、字典、集合等疊代器，依次處理疊代器中的每個元素。
 
-重複迴圈
----
+while語句：當條件為真時，循環執行語句塊。
 
-判斷式
----
+try語句：與except, finally, else配合使用處理在程式執行中出現的異常情況。
 
-數列
----
-</t>
+class語句：用於定義類型。
+
+def語句：用於定義函式和類型的方法。
+
+Print 函式:支援遞迴、預設參數值、可變參數，
+函式呼叫時，可以如同C語言那樣按照位置與形參符合，也可以按照命名參數形式呼叫，即 param_name=value 形式的實參。在一個函式呼叫的實參表中，關鍵字引數必須出現在位置參數之後。
+
+
+運算
+
+Python使用與C、Java類別似的運算子，支援整數與浮點數的數學運算。同時還支援複數運算與無窮位數（實際受限於電腦的能力）的整數運算。除了求絕對值函式 abs() 外，大多數數學函式處於math和cmath模組內。</t>
 <t tx="leo.20180107150611.2"></t>
 <t tx="leo.20180107150611.3">(uncached) yen.20170429215130.1
 Diff...
@@ -348,20 +349,6 @@ Windows 的內容
 接下來將要練習如何開啟 Leo Editor, 開啟 Leo Editor 專案, 如何使用 Fossil SCM 與 Eric6 IDE, 請大家要仔細筆記, 並且透過實際操作, 了解各種系統的特性與用法.
 </t>
 <t tx="yen.20170429214845.1"></t>
-<t tx="yen.20170429215041.1">可攜程式系統介紹
-===
-
-可攜程式系統介紹
-
-@others
-</t>
-<t tx="yen.20170429215130.1">啟動與關閉
----
-
-
-啟動與關閉2
----
-</t>
 <t tx="yen.20170429215416.1"> PyQt5 簡介
 ===
 

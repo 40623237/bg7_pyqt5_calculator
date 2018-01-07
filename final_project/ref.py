@@ -331,7 +331,7 @@ class Calculator(QWidget):
         self.clearAll()
         self.display.setText("####")
 
-        def calculate(self, rightOperand, pendingOperator):
+    def calculate(self, rightOperand, pendingOperator):
         if pendingOperator == "+":
             self.sumSoFar += rightOperand
         elif pendingOperator == "-":

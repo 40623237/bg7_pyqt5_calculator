@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623247/doc/trunk/blog/</id><updated>2017-11-27T15:30:00+08:00</updated><entry><title>2017 Fall CPB 第十二週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w12.html" rel="alternate"></link><published>2017-11-27T15:30:00+08:00</published><updated>2017-11-27T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-27:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w12.html</id><summary type="html">&lt;p&gt;W12&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W12&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;說明如何開始執行 PyQt5 計算機程式的期末專案.
+解如何設定 git config 中的 user.name, user.email 與 http.proxy,
+ 以便在 git commit 與 push 時使用.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w12"></category></entry><entry><title>2017 Fall CPB 第十一週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w11.html" rel="alternate"></link><published>2017-11-20T15:30:00+08:00</published><updated>2017-11-20T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-20:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w11.html</id><summary type="html">&lt;p&gt;W11&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W11&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;Branch分支&lt;/p&gt;
+&lt;p&gt;Git branch&lt;/p&gt;
+&lt;p&gt;Git status&lt;/p&gt;
+&lt;p&gt;Git add .&lt;/p&gt;
+&lt;p&gt;Git config&lt;/p&gt;
+&lt;p&gt;Git config - -global user.name “XXX”&lt;/p&gt;
+&lt;p&gt;Git config - -global user.email “XXX@XXX”&lt;/p&gt;
+&lt;p&gt;Git commit –m “XXX”&lt;/p&gt;
+&lt;p&gt;Git push&lt;/p&gt;
+&lt;p&gt;控制台-&amp;gt;使用者帳戶-&amp;gt;windows認證&lt;/p&gt;
+&lt;p&gt;https://帳號.github.io/w11&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w11"></category></entry><entry><title>2017 Fall CPB 第三週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w3.html" rel="alternate"></link><published>2017-11-16T18:20:00+08:00</published><updated>2017-11-16T18:20:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-16:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w3.html</id><summary type="html">&lt;p&gt;W3&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3&lt;/p&gt;
+</content><category term="2017fall"></category><category term="CPB"></category><category term="w2"></category></entry><entry><title>2017 Fall CPB 第四週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w4.html" rel="alternate"></link><published>2017-11-16T18:20:00+08:00</published><updated>2017-11-16T18:20:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-16:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w4.html</id><summary type="html">&lt;p&gt;W4&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W4&lt;/p&gt;
+</content><category term="2017fall"></category><category term="CPB"></category><category term="w4"></category></entry><entry><title>2017 Fall CPB 第六週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w6.html" rel="alternate"></link><published>2017-11-16T18:20:00+08:00</published><updated>2017-11-16T18:20:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-16:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w6.html</id><summary type="html">&lt;p&gt;W6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W6&lt;/p&gt;
+</content><category term="2017fall"></category><category term="CPB"></category><category term="w6"></category></entry><entry><title>2017 Fall CPB 第十週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w10.html" rel="alternate"></link><published>2017-11-13T15:12:00+08:00</published><updated>2017-11-13T15:12:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-13:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w10.html</id><summary type="html">&lt;p&gt;W10&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;第十週為檢討週複習前幾週所學,
+整理自己的隨身環境系統,以及練習
+利用eric6完成計算機對話框所需按鍵
+的配置, 了解如何使用格點佈局, 了解
+如何設定 Dialog, pressButton 與 lineEdit 
+物件的尺寸大小.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w10"></category></entry><entry><title>2017 Fall CPB 第九週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w9.html" rel="alternate"></link><published>2017-11-06T14:24:00+08:00</published><updated>2017-11-06T14:24:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w9.html</id><summary type="html">&lt;p&gt;W9&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W9&lt;/p&gt;
+
+
+&lt;h3&gt;投影片&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://cpb.kmol.info/40623247/doc/trunk/index.html#/"&gt;期中報告&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241453504" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241453504"&gt;期中報告影片&lt;/a&gt; from &lt;a href="https://vimeo.com/user73415643"&gt;廖峻祥&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w9"></category></entry><entry><title>2017 Fall CPB 第八週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w8.html" rel="alternate"></link><published>2017-11-06T14:18:00+08:00</published><updated>2017-11-06T14:18:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w8.html</id><summary type="html">&lt;p&gt;W8&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W8&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241465644" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241465644"&gt;虎尾科技大學-機械設計工程系-計算機程式-期中考週影片-40623247&lt;/a&gt; from &lt;a href="https://vimeo.com/user73415643"&gt;廖峻祥&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w8"></category></entry><entry><title>2017 Fall CPB 第七週考試</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w7-exam.html" rel="alternate"></link><published>2017-10-30T00:37:00+08:00</published><updated>2017-10-30T00:37:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-10-30:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w7-exam.html</id><summary type="html">&lt;p&gt;W7考試週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7考試週&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240434619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240434619"&gt;虎尾科技大學-機械設計工程系-計算機程式-期中考週影片-40623247&lt;/a&gt; from &lt;a href="https://vimeo.com/user73415643"&gt;廖峻祥&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;每週出席情況100&lt;/p&gt;
+&lt;p&gt;紙本筆記65&lt;/p&gt;
+&lt;p&gt;隨身碟內容70&lt;/p&gt;
+&lt;p&gt;個人倉儲內容60&lt;/p&gt;
+&lt;p&gt;各週上課摘要60&lt;/p&gt;
+&lt;p&gt;自評分數70&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w7"></category><category term="Exam"></category></entry><entry><title>2017 Fall CPB 第二週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247_2017-fall-cpb-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623247/doc/trunk/blog/40623247_2017-fall-cpb-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+
+
+&lt;p&gt;二乙上課內容&lt;/p&gt;
+&lt;p&gt;希望為每位學員建立倉儲的設想流程如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;各學員可以獨立維護倉儲內容, 也可以在總管理員的權限下, 為分組學員建立帳號, 逐步導入協同設計&lt;/li&gt;
+&lt;li&gt;各學員的倉儲以修課班級命名伺服器, 以學號命名倉儲, 方便依照此一規律擷取各學員的倉儲頁面.&lt;/li&gt;
+&lt;li&gt;各學員能以電子郵件收到與新建倉儲相關的連結, 以及帳號密碼.&lt;/li&gt;
+&lt;li&gt;必須擴增 Ubuntu ulimits -n 同時開檔的設限範圍 (內定只允許同時開啟 1024 個檔案)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解決方案:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主機名稱可以透過 domain dns 中的 CNAME 別名方式處理, 因為目前所能提供出來的 IPv4/IPv6 雙支援主機, 之前已經都設定了符號名稱.&lt;/li&gt;
+&lt;li&gt;fossil init 雖然提供指定管理者的 -A 選項功能, 但是無法直接指定管理者對應密碼, 因此必須建立倉儲之後, 再利用 fossil user 修改密碼, 之後再利用 Gmail 寄出通知信, 其中提供倉儲連結, 登入帳號與密碼等資訊.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;建立各學員倉儲檔案的程式如下, 如前所述, 主要透過兩個 Fossil SCM 指令完成, 在 Windows 採用 Fossil SCM 2.3 版建立所有 .fossil 倉儲時, 將同時以 email 通知各學員. 各學員的 .fossil 檔案再以 sftp 送到伺服主機對應帳號所屬的目錄下. 必須要特別注意的是, 採用 Fossil SCM 2.3 版所建立的 .fossil 倉儲檔案, 在 Ubuntu 操作系統上也必須採用相同版本的 fossil, 否則舊版 fossil 可能無法開啟新版 fossil 程式所建立的倉儲檔.&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+import os
+import string
+import random
+# 使用 Gmail 寄信必須導入下列模組
+import smtplib
+import re
+from email.mime.text import MIMEText  
+from email.header import Header
+
+# 用來以亂數建立密碼的韓式
+def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+    '''
+    source: https://stackoverflow.com/questions/2257441/random-string-generation-with-upper-case-letters-and-digits-in-python
+    '''
+    return ''.join(random.choice(chars) for _ in range(size))
+
+# 讀取學員名單, 逐一取得學員學號, 學員名單, 檢查點 1/7
+student_data = open("2017fall_list/1b.txt").read()
+student_list = student_data.splitlines()
+
+# 利用 gmail smtp 功能寄信
+server = smtplib.SMTP('smtp.gmail.com:587')
+server.ehlo()
+server.starttls()
+# 以下必須準備好對應郵件帳號與密碼的外部檔案, 所提供的寄信帳號, 是否可以寄信, 檢查點 2/7
+'''
+寄信之前必須到 https://www.google.com/settings/security/lesssecureapps 修改權限, 改為較低安全權限
+否則無法使用程式寄信!
+'''
+# 從外部檔案讀取要用來寄信的 gmail 帳號與密碼
+# mail.txt 格式為: 電子郵箱,對應密碼, 以逗點隔開, 檢查點 3/7
+email_data = open("z:/2017fall/mail.txt").read()
+email, email_password= email_data.split(",")
+print(email, email_password)
+# 是否登入所提供寄信的電子郵箱, 4/7
+server.login(email, email_password)
+# 不同課程名稱, 與對應主機名稱, 必須配合修改 5/7
+course_title = "計算機程式"
+fossil_server = "cpb.kmol.info"
+
+for student_num in student_list:
+    username = student_num
+    repository = username + '.fossil'
+    # 利用所提供的字串, 以亂數組成六個字元的密碼
+    password = id_generator(6, "23456789abcdef")
+    print(student_num, ", " , password)
+
+    # 執行 dos command 指令, 建立倉儲
+    os.system("fossil init -A " +username + " " + repository)
+    print("已經建立倉儲 " + repository)
+
+    # 執行 dos command 指令, 修改使用者密碼
+    os.system("fossil user password " + username + " " + password + " -R " + repository)
+    print("已經修改密碼")
+
+    # 利用 Gmail 寄信, 告知各學員倉儲連結與帳號密碼
+    # 每一位學員收到的 output 都從這裡 reset
+    output = ""
+    # 若學號欄為空, 則不寄信
+    if student_num != "":
+        # output 為寄給每一位學員的資料表格
+        mail_content = student_num+' 您好: &lt;br /&gt;&lt;br /&gt; 您在 '+course_title+' 課程中的區域網路倉儲: &lt;a href="https://'+fossil_server+'/'+student_num+'"&gt;https://'+fossil_server+'/'+student_num+'&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;'
+        mail_content += '管理帳號為:'+ student_num + '&lt;br /&gt; 管理密碼為: '+ password+'&lt;br /&gt;&lt;br /&gt;'
+        print(student_num)
+        print(mail_content)
+        # 至此 mail_content 已經確定
+        # 在測試與實際寄送資料, 也必須配合修改, 檢查點  6/7
+        receiver_email = student_num + "@gm.nfu.edu.tw"
+        # 測試用
+        #receiver_email = student_num+"@mde.tw"
+        # 列出收信人 email 位址
+        #print(receiver_email)
+        #message= MIMEText(mail_content,'plain','UTF-8')
+        # 以 html 格式寄信
+        message= MIMEText(mail_content,'html','UTF-8')
+        message['Subject'] = Header(course_title+" Fossil SCM 帳號通知", 'UTF-8') 
+        # 可以先不寄信, 確定格式正確後再開啟, 是否實際寄出信件, 檢查點 7/7
+        server.sendmail("gmail_address", receiver_email, message.as_string())
+server.quit()
+&lt;/pre&gt;
+
+&lt;p&gt;各班所完成的主機:&lt;/p&gt;
+&lt;p&gt;二甲電腦輔助設計實習: &lt;a href="https://cadpa.kmol.info"&gt;https://cadpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二乙電腦輔助設計實習: &lt;a href="https://cadpb.kmol.info"&gt;https://cadpb.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一甲計算機程式: &lt;a href="https://cpa.kmol.info"&gt;https://cpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一乙計算機程式: &lt;a href="https://cpb.kmol.info"&gt;https://cpb.kmol.info&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category></entry><entry><title>2017 Fall CPB 第十三週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w13.html" rel="alternate"></link><published>2017-01-07T15:30:00+08:00</published><updated>2017-01-07T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-01-07:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w13.html</id><summary type="html">&lt;p&gt;W13&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W13&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;說明如何利用 Github 倉儲中的 gh-pages 分支進行協同程式設計.&lt;/p&gt;
+&lt;p&gt;當完成改版且 git add . , git commit -m "", 以及 git push 之後, 遠端的倉儲已經被改版&lt;/p&gt;
+&lt;p&gt;之後,其他組員也對 w13 倉儲同時改版, 當提交推送到遠端倉儲時, github  就會回傳遠端倉儲已經被改版的通知, 並且提示必須透過 git pull, 取得遠端的新版本內容&lt;/p&gt;
+&lt;p&gt;但是當其他組員執行 git pull 之後, 修改內容確定目前所要的版本內容後, 必須再進行新增提交之後, 才能將版本推送到遠端&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w13"></category></entry><entry><title>2017 Fall CPB 第十四週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w14.html" rel="alternate"></link><published>2017-01-07T15:30:00+08:00</published><updated>2017-01-07T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-01-07:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w14.html</id><summary type="html">&lt;p&gt;W14&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W14&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;各組開始分工寫計算機&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w14"></category></entry><entry><title>2017 Fall CPB 第十五週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w15.html" rel="alternate"></link><published>2017-01-07T15:30:00+08:00</published><updated>2017-01-07T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-01-07:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w15.html</id><summary type="html">&lt;p&gt;W15&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W15&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;說明期末專案執行相關期程規劃與內容提要.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w15"></category></entry><entry><title>2017 Fall CPB 第十六週</title><link href="https://cpb.kmol.info/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w16.html" rel="alternate"></link><published>2017-01-07T15:30:00+08:00</published><updated>2017-01-07T15:30:00+08:00</updated><author><name>40623247</name></author><id>tag:cpb.kmol.info,2017-01-07:/40623247/doc/trunk/blog/40623247-2017-fall-cpb-w16.html</id><summary type="html">&lt;p&gt;W16&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W16&lt;/p&gt;
+
+
+&lt;h3&gt;操作心得&lt;/h3&gt;
+&lt;p&gt;各組員分工將計算機完成.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPB"></category><category term="w16"></category></entry></feed>

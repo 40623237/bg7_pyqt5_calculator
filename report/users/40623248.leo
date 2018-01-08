@@ -58,6 +58,12 @@
 <v t="leo.20171225155826.4"><vh>new:程式開發心得</vh></v>
 </v>
 </v>
+<v t="leo.20180108105819.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20180108105819.2"><vh>Recovered node "摘要" from @clean cover_and_abstract.md</vh>
+<v t="leo.20180108105819.3"><vh>old:摘要</vh></v>
+<v t="leo.20180108105819.4"><vh>new:摘要</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="40323230.20170123213451.1">@language python
@@ -112,7 +118,7 @@ author:
 - 設計一乙 40623247
 - 設計一乙 40623248
 advisor_zh: '嚴家銘'
-date: '2017.12.18'
+date: '2018.1.08'
 ---
 
 @others
@@ -192,20 +198,7 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="ahshoe.20170315212626.1">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="ahshoe.20170317115820.1">---
-abstract: |
-    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
-    
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
-    
-    本研究的重點在於 ...
----
-
-
-</t>
+<t tx="ahshoe.20170317115820.1"></t>
 <t tx="leo.20171119234752.1"></t>
 <t tx="leo.20171119234822.1"></t>
 <t tx="leo.20171218141522.1">標題頁 - 含報告標題、作者、日期與所屬單位
@@ -252,6 +245,14 @@ Diff...
                                                                                                                                               by40623246
 - 在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
 -                                                                                                                                             by40623247
+
+
+
+
+-第一次協同總會出一些問題，問了同學和看影片，慢慢了解他的邏輯，
+之後協同的還算不錯。
+by40623248
+
 </t>
 <t tx="leo.20171225155826.3">Fossil SCM
 ---
@@ -305,6 +306,38 @@ Github 協同倉儲
 在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
                                                                                                                                             by40623247
 </t>
+<t tx="leo.20180108105819.1"></t>
+<t tx="leo.20180108105819.2">(uncached) ahshoe.20170317115820.1
+Diff...
++ ---
++ abstract: |
++     這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
++     
++     + 以 YAML 的方式插入。
++     + The '+' indicator says to keep newlines at the end of text blocks.
++     + 使用 Markdown 語法。
++     + 前面使用加號
++     
++     本研究的重點在於 ...
++ ---
++ 
++ 
+</t>
+<t tx="leo.20180108105819.3">---
+abstract: |
+    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
+    
+    + 以 YAML 的方式插入。
+    + The '+' indicator says to keep newlines at the end of text blocks.
+    + 使用 Markdown 語法。
+    + 前面使用加號
+    
+    本研究的重點在於 ...
+---
+
+
+</t>
+<t tx="leo.20180108105819.4"></t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
@@ -317,13 +350,22 @@ Github 協同倉儲
 
 第七組計算器程式期末報告前言
 
-@others</t>
+
+@others
+</t>
 <t tx="yen.20170429214838.3">前言內容:
-這是機械設計一乙計算機程式第七組報告。
+--
+何謂機械設計?
 
+所謂機械設計, 就是透過詳細思慮考量, 完成包括固體、流體與軟體等互動元件間之精巧配置, 使其展現特定功能之具體規劃表達.
 
-\ 
+工程師有那六種表達方式? 口語, 文字, 2D, 3D, 數學理論與實作表達.
 
+創造力的三個基本要素: 自學力, 執行力與想像力.
+
+自學力在提升自我解題能力, 執行力則在運用所學解決問題, 當累積一定經驗後, 就能透過想像、自學與執行過程之整合運用, 創造出具效能的創新產品.
+
+接下來將要練習如何開啟 Leo Editor, 開啟 Leo Editor 專案, 如何使用 Fossil SCM 與 Eric6 IDE, 請大家要仔細筆記, 並且透過實際操作, 了解各種系統的特性與用法.
 </t>
 <t tx="yen.20170429214845.1"></t>
 <t tx="yen.20170429215041.1">可攜程式系統介紹
@@ -331,25 +373,20 @@ Github 協同倉儲
 
 可攜程式系統介紹
 
-@others</t>
+@others
+</t>
 <t tx="yen.20170429215130.1">啟動與關閉
 ---
 
-Windows 的內容
-
-有一張圖片：
-
-![Kmol][]
-
-稱為圖 {@fig:駱駝}。
-
-各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
 啟動與關閉2
----</t>
+---
+</t>
 <t tx="yen.20170429215416.1"> PyQt5 簡介
 ===
-@others</t>
+
+@others
+</t>
 <t tx="yen.20170429215446.2">PyQt5 架構
 ---
 大部分所見的圖形化介面程式語言都是由有物件導向的程式語言開發的，例如 C++、Java、C#、Python 等。
@@ -365,14 +402,16 @@ PyQt 幾乎支援 Qt 大部分的功能，並且將較專門的功能另外分�
 
 另外 QScintilla 是一個將 Scintilla 連結至 PyQt 的套件（在 C++ 可以直接用 Qt 和 Scintilla 即可），用途是辨識文字中的程式語言，以亮顯 (highlight) 的方式呈現，可以用作程式語言的辨識功能。
 
-PyQt 的版本與 Qt 相同（除了小版號），採用 GPL 和商業授權。需要注意的是，若作為軟體釋出，沒有商業授權是需要公開原始碼的。</t>
+PyQt 的版本與 Qt 相同（除了小版號），採用 GPL 和商業授權。需要注意的是，若作為軟體釋出，沒有商業授權是需要公開原始碼的。
+</t>
 <t tx="yen.20170429215617.1">Calculator 程式
 ===
 
-Calculator 程式細部說明
+Calculator 程式說明
 
-@others</t>
-<t tx="yen.20170429215851.1">按鍵分類
+@others
+</t>
+<t tx="yen.20170429215851.1">#按鍵分類
 ---
 0 ~9 數字按建, 點按後由 digitClicked() 方法槽承接處理
 直接運算元, 包括 Sqrt, x^2 與 1/x, 點按後由 unaryOperatorClicked() 方法槽承接處理
@@ -481,21 +520,32 @@ Github 協同倉儲
 
 學員心得
 ---
-剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。
-                                                                                                                                            by40623246
-在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。
-                                                                                                                                            by40623247
+
+剛開始協同時常常出問題,後來藉由組長的教學還有老師的影片,才慢慢了解其中操作的過程。操作也越來越熟練 。by40623246
+
+在編寫算計機時,對於程式語言還好不了解,後來一直反覆觀看影片以及詢問組長,才慢慢了解。by40623247
+
+
+
+
+
+ 
 </t>
 <t tx="yen.20170429220128.1">結論
 ===
 
 期末報告結論
 
-@others</t>
-<t tx="yen.20170429220137.1">結論與建議
+@others
+</t>
+<t tx="yen.20170429220137.1">結論與建議:
 ---
+結論:
+組員們一起努力協同此份報告，很有成就感。大家一起煩惱著拼命著就是為了完成自己被分配的任務。
 
-結論與建議內容</t>
+建議:
+希望能不要將每個禮拜的主題換來換去，專心處理某個部份的問題，都處理完了解完後，在來進行下一個部分。一方面大家會對課程比較了解，一方面也學得不會痛苦。
+</t>
 <t tx="yen.20170429220335.1">附錄
 ===
 
